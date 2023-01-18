@@ -4,7 +4,7 @@
   "description": "![Github licence](https://img.shields.io/badge/License-Apache_2.0-blue.svg)",
   "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
+    "test": "jest",
     "start": "node server.js",
     "seed": "node seeds/index.js"
   },
