@@ -21,11 +21,11 @@ The user can use the heroku link provided in the "Links" section to use applicat
 
 ## Usage
 
-![ScreenShot from application]()
+![ScreenShot from application](./assets/Screenshot%202023-01-18%20at%2017.56.16.png)
 
 ## Links
 
-
+https://challenge14-techblog.herokuapp.com/
 
 ## License
 
